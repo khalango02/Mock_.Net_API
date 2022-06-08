@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i1D6iK24bXAfiVs4M+0tnQj0VMzbFMU6LwViGC68L+A=",
+  "Source": "Mock_ASPNET",
+  "BasePath": "_content/Mock_ASPNET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
